@@ -1,0 +1,22 @@
+PODS:
+  - MJExtension (3.2.4)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - MJExtension
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - MJExtension
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 833ce63cc40b30e0e60e75c1d056036648769c4d
+
+COCOAPODS: 1.10.1
